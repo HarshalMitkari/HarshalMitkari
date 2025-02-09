@@ -2,7 +2,7 @@
 
 #### 🚀 Back-end Software Engineer | Python | Django | FastAPI | AWS | Docker
 
-I am a **Back-end Software Engineer** with more than **6 years of experience** in designing and developing scalable, high-performance applications. I specialize in building robust back-end systems using Python and modern frameworks.
+I am a **Back-end Software Engineer** from 🇮🇳 passionate about developing production-ready applications with 6+ years of professional onsite as well as remote working experience.🎯
 
 ---
 
