@@ -14,9 +14,6 @@ I mostly work with Python, Python Frameworks and Cloud based technologies. 🚀
  <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
   </a>
-   <a href="https://fastapi.tiangolo.com/" target="_blank" >
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"  height="90" />
-  </a>
   
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
@@ -24,6 +21,9 @@ I mostly work with Python, Python Frameworks and Cloud based technologies. 🚀
   
   <a href="https://www.djangoproject.com/" target="_blank" >
     <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" >
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"  height="90" />
   </a>
   
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
